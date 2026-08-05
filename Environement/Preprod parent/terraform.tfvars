@@ -1,7 +1,7 @@
 rgtest = {
     rg1 ={
         name= "rgtest1"
-        location = "centralindia"
+        location = "centraldelhi"
     }
 
     # rg2 ={

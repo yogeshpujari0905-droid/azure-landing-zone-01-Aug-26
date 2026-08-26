@@ -69,7 +69,7 @@ nics= {
     allocation_method = "Dynamic"
   }
 
-  nic1 = {
+  nic2 = {
     nic_name              = "backend-nic"
     location          = "centralus"
     resource_group_name = "rgtest1"
